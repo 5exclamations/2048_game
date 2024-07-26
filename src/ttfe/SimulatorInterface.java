@@ -1,7 +1,7 @@
 package ttfe;
 
 public interface SimulatorInterface {
-
+	
 	/**
 	 * Put a new piece to an empty (and random) position on the board.
 	 *
